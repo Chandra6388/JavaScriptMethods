@@ -2,6 +2,7 @@ import React from "react";
 
 const StringMethods = () => {
     const str = "Hello World!";
+    
     // String Creation
     // to convert Interger to String
     // toString , String , typeof
